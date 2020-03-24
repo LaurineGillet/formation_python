@@ -1,4 +1,6 @@
-class SuperExercice():
+from titrepro import TitrePro 
+
+class SuperExercice(TitrePro):
     EXERCICE = 'dev'
     __techno = 'Python'
 
