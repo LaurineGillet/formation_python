@@ -1,8 +1,6 @@
-class SuperExercice(One, Two):
+class SuperExercice():
     EXERCICE = 'dev'
-    _techno = 'Python'
-
-    def __init__(self):
+    __techno = 'Python'
 
     def exercer(self):
         print("Coucou l'aformac je fais mes modules")
